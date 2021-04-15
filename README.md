@@ -8,15 +8,15 @@ Desarrollar un programa que permita por medio de la edad de una
 persona, determinar la categoría en la que pertenece a raíz de la
 siguiente tabla:
 
---- RANGO DE EDAD -------------- CATEGORIA --------.
--------- 0-5 -------------------- Infante ---------.
--------- 6-10 --------------------- Niño ----------.
-------- 10-15 --------------- Pre Adolecente ------.
-------- 16-18 ------------------ Adolecente -------.
-------- 19-25 ------------------ Pre Adulto -------.
-------- 26-40 -------------------- Adulto ---------.
-------- 41-55 ------------------ Pre Anciano ------.
--------- 56+ -------------------- Anciano ---------.
+1.--- RANGO DE EDAD -------------- CATEGORIA --------.
+2.-------- 0-5 -------------------- Infante ---------.
+3.-------- 6-10 --------------------- Niño ----------.
+4.------- 10-15 --------------- Pre Adolecente ------.
+5.------- 16-18 ------------------ Adolecente -------.
+6.------- 19-25 ------------------ Pre Adulto -------.
+7.------- 26-40 -------------------- Adulto ---------.
+8.------- 41-55 ------------------ Pre Anciano ------.
+9.-------- 56+ -------------------- Anciano ---------.
 
 Recuerda tener presente:
 • Condicionales anidadas.
